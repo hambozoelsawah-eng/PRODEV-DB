@@ -9,7 +9,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "DbDesigner - Visual Database Designer",
+  title: "PRODEV DB",
   description:
     "Design databases visually with an intuitive interface. Create tables, define relationships, and export MySQL code.",
   generator: "v0.app",
